@@ -1,7 +1,7 @@
 # 📊 Power BI Dashboard Project  
 ## Profit Analysis | Sales Performance | Customer Insights
 
-## 📌 Project Overview  
+## Project Overview  
 This Power BI project focuses on analyzing **sales performance, profitability, and customer behavior** through interactive and insight-driven dashboards.  
 The objective of this project is to convert raw business data into **meaningful visual insights** that support data-driven decision-making.
 
@@ -9,7 +9,7 @@ The project includes **three interconnected dashboards** with page navigation an
 
 ---
 
-## ❓ Problem Statement  
+## Problem Statement  
 Organizations often face challenges in analyzing business data due to:
 - Scattered sales and profit information  
 - Difficulty in tracking performance across regions, categories, and segments  
@@ -21,7 +21,7 @@ To design interactive Power BI dashboards that provide a **comprehensive view of
 
 ---
 
-## 📊 Dashboards Included  
+## Dashboards Included  
 
 ### 1️⃣ Profit Analysis Dashboard  
 - Total Sales, Total Profit, Average Discount  
@@ -46,7 +46,7 @@ To design interactive Power BI dashboards that provide a **comprehensive view of
 
 ---
 
-## ✨ Features Implemented  
+## Features Implemented  
 - Dark & Light mode themes using slicers  
 - Page navigation for smooth dashboard flow  
 - Interactive slicers for filtering data  
@@ -55,7 +55,7 @@ To design interactive Power BI dashboards that provide a **comprehensive view of
 
 ---
 
-## 🧰 Tools & Technologies  
+## Tools & Technologies  
 - Power BI  
 - DAX  
 - Data Modeling  
@@ -63,7 +63,7 @@ To design interactive Power BI dashboards that provide a **comprehensive view of
 
 ---
 
-## 📈 Key Learnings  
+## Key Learnings  
 - Building dashboards with a business-first approach  
 - Creating interactive and dynamic reports  
 - Understanding sales, profit, and customer analytics  
@@ -71,6 +71,6 @@ To design interactive Power BI dashboards that provide a **comprehensive view of
 
 ---
 
-## 📬 Feedback  
+## Feedback  
 Suggestions and feedback are welcome.  
 Feel free to explore, fork, or raise issues for improvements.
